@@ -62,9 +62,6 @@ logger.info('Interpreted: %s', g)
 ```
 This should be in `CONDAENVPATH/envs/Ampere/lib/python3.7/site-packages/penman`
 
-### Trained Models:
-- https://drive.google.com/drive/folders/1mx9Dq8yRRD2YhN0HSuoDwoz5FvrZADZb?usp=sharing
-
 
 ## Citation
 
