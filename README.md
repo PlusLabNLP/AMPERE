@@ -1,5 +1,5 @@
 # AMPERE: AMR-Aware Prefix for Generation-Based Event Argument Extraction Model
-Code for our ACL-2023 paper [AMPERE: AMR-Aware Prefix for Generation-Based Event Argument Extraction Model]
+Code for our ACL-2023 paper [AMPERE: AMR-Aware Prefix for Generation-Based Event Argument Extraction Model](https://arxiv.org/abs/2305.16734)
 
 ## Environment
 - Python==3.7
